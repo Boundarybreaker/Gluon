@@ -1,0 +1,12 @@
+{
+  "id": "gluon",
+  "name": "Gluon",
+  "version": "1.1",
+  "authors": [
+    "b0undarybreaker"
+  ],
+  "listeners": [
+    "space.bbkr.gluon.Gluon",
+    "space.bbkr.gluon.GluonCore"
+  ]
+}

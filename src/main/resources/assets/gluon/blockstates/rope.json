@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "anchor=false": {
+      "model":  "gluon:block/rope"
+    },
+    "anchor=true": {
+      "model":  "gluon:block/rope_anchor"
+    }
+  }
+}

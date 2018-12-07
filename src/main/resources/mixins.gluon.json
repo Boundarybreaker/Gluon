@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.7.7",
+  "compatibilityLevel": "JAVA_8",
+  "target": "@env(DEFAULT)",
+  "package": "space.bbkr.gluon.mixins",
+  "refmap": "mixins.gluon.refmap.json",
+  "mixins": [
+    "MixinBannerPatternRecipe",
+    "MixinBannerTooltip",
+    "MixinEntityPlayer",
+    "MixinRenderPlayer"
+  ]
+}
